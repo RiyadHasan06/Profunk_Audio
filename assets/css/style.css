@@ -796,6 +796,7 @@ nav{
 }
 .footer-icon a i{
     background-color: #ffffff;
+    color: #000;
     height: 32px;
     width: 32px;
     border-radius: 8px;
